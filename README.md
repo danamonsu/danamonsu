@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm danamonsu</h1>
-<h3 align="center">just ordinary human</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danamonsu&label=Profile%20views&color=0e75b6&style=flat" alt="danamonsu" /> </p>
 
